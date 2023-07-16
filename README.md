@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+##App Home UI
+![Home](https://github.com/vikashviraj/finance-app-ui/blob/main/Screenshot_1661373194.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
