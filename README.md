@@ -1,4 +1,4 @@
-# koshex
+# koshex Finance App
 
 A new Flutter project.
 
